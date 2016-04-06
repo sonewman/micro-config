@@ -1,6 +1,6 @@
 {
   "name": "micro-config",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "configuration management",
   "main": "micro-config.js",
   "dependencies": {
