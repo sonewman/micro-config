@@ -1,0 +1,28 @@
+{
+  "name": "micro-config",
+  "version": "0.0.0",
+  "description": "configuration management",
+  "main": "micro-config.js",
+  "dependencies": {
+    "deep-mixin": "^2.0.0"
+  },
+  "devDependencies": {
+    "macchiato": "^4.6.0"
+  },
+  "scripts": {
+    "test": "macchiato test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sonewman/micro-config.git"
+  },
+  "keywords": [
+    "config"
+  ],
+  "author": "Sam Newman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonewman/micro-config/issues"
+  },
+  "homepage": "https://github.com/sonewman/micro-config#readme"
+}
